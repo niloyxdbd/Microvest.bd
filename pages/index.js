@@ -1,4 +1,4 @@
-```jsx
+
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
@@ -50,4 +50,4 @@ const p = path.join(process.cwd(),'data/products.json')
 const products = JSON.parse(fs.readFileSync(p,'utf8'))
 return {props:{products}}
 }
-```
+
