@@ -1,0 +1,15 @@
+```json
+[
+{
+"id": "mushroom-soup",
+"name": "মাশরুম সূপ Mushroom Soup",
+"price": 790,
+"mrp": 900,
+"stock": 472,
+"slug": "mushroom-soup",
+"images": ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigzCWrGa5BIdqQ_FzkGYEsvs42o_5-eVXJ_icOfDXX1HEl4hPJx7zpQReoaTlPeofsBdaOQYkv1AUj5o4SC_O6cELMdsioIuBnC0wKEAeWOTLXnXsn76U7MMisINoRsWOBUYtzVu3EkVP01GwzWnoE9KFkvMVwQ1ggGpa0I7LM2cmmidoxraZwNasq5jM/s1600/Micro%20Vest%20%E0%A6%B8%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%BE%20%E0%A6%B6%E0%A6%BE%E0%A6%95%20Microgreens.png"],
+"short": "স্বাস্থ্যকর এবং প্রাকৃতিক মাশরুম সূপ",
+"description": "মাশরুম স্যুপ আসলে প্রাকৃতিক ভিটামিন ও মিনারেলের ভাণ্ডার... (ইচ্ছেমত পরিবর্তন করুন)"
+}
+]
+```
