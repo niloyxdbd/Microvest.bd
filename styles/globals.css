@@ -1,4 +1,4 @@
-```css
+
 :root{--green:#19a34a}
 *{box-sizing:border-box}
 body{font-family:Inter, system-ui, -apple-system, Arial, sans-serif;margin:0;padding:0;background:#fff}
@@ -13,4 +13,4 @@ body{font-family:Inter, system-ui, -apple-system, Arial, sans-serif;margin:0;pad
 .input{padding:8px;border:1px solid #ddd;border-radius:6px;width:100%}
 .qty{display:flex;align-items:center;gap:8px}
 .badge{display:inline-block;background:#e6f7ec;color:var(--green);padding:6px 10px;border-radius:999px;font-weight:600}
-```
+
