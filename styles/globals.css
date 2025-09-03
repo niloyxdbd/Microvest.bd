@@ -1,0 +1,16 @@
+```css
+:root{--green:#19a34a}
+*{box-sizing:border-box}
+body{font-family:Inter, system-ui, -apple-system, Arial, sans-serif;margin:0;padding:0;background:#fff}
+.container{max-width:1100px;margin:30px auto;padding:0 20px}
+.header{display:flex;align-items:center;justify-content:space-between;padding:12px 0}
+.logo{font-weight:700;color:var(--green)}
+.grid{display:grid;grid-template-columns:1fr 420px;gap:30px}
+.card{background:#fff;border-radius:8px;padding:16px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+.product-image{width:100%;border-radius:8px}
+.button{background:var(--green);color:#fff;padding:12px 18px;border-radius:6px;border:0;cursor:pointer}
+.small{font-size:14px;color:#666}
+.input{padding:8px;border:1px solid #ddd;border-radius:6px;width:100%}
+.qty{display:flex;align-items:center;gap:8px}
+.badge{display:inline-block;background:#e6f7ec;color:var(--green);padding:6px 10px;border-radius:999px;font-weight:600}
+```
