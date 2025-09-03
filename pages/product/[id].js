@@ -1,4 +1,4 @@
-```jsx
+
 <div>Cash on Delivery (COD)</div>
 </div>
 <button className="button" type="submit">Place Order (COD)</button>
@@ -49,4 +49,4 @@ const products = JSON.parse(fs.readFileSync(p,'utf8'))
 const product = products.find(x=>x.id===params.id)
 return {props:{product}}
 }
-```
+
