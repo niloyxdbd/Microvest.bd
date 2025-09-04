@@ -1,5 +1,5 @@
 // pages/api/admin-orders.js
-import supabase from '../../supabase';
+import supabase from '../../supabase.js';
 
 
 
