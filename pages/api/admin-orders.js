@@ -1,5 +1,6 @@
 // pages/api/admin-orders.js
-import supabase from '../../lib/supabase';
+import supabase from '../../supabase';
+
 
 
 export default async function handler(req, res) {
